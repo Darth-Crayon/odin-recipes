@@ -1,1 +1,2 @@
 # odin-recipes
+This one of The Odin Project's first projects in which I will test my knowledge of basic HTML: boilerplate, headings, paragraphs, lists, important & emphasized text as well es hyperlinks & images.
